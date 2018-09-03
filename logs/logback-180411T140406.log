@@ -1,0 +1,4 @@
+[2018-04-11 14:04:06:925][main] INFO  c.c.s.i.ImageMigratorApplication - Starting ImageMigratorApplication on SKP1002639NM003.local with PID 53881 (/Users/a1002639/IdeaProjects/image_migrator/build/libs/image_migrator-0.0.1-SNAPSHOT.jar started by a1002639 in /Users/a1002639/IdeaProjects/image_migrator)
+[2018-04-11 14:04:06:927][main] DEBUG c.c.s.i.ImageMigratorApplication - Running with Spring Boot v1.5.10.RELEASE, Spring v4.3.14.RELEASE
+[2018-04-11 14:04:06:927][main] INFO  c.c.s.i.ImageMigratorApplication - The following profiles are active: production-all
+[2018-04-11 14:04:07:1741][main] INFO  c.c.s.i.ImageMigratorApplication - Started ImageMigratorApplication in 1.336 seconds (JVM running for 1.993)
